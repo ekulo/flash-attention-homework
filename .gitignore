@@ -1,0 +1,9 @@
+build/
+__pycache__/
+*.pyc
+results/
+.vscode/
+.idea/
+*.log
+# 环境探测误产物(0 字节,可删除)
+12.8
